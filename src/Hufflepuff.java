@@ -33,7 +33,6 @@ public class Hufflepuff extends HogwartsStudent {
     public void setHonest(int honest) {
         this.honest = honest;
     }
-
     @Override
     public String toString() {
         return "Hufflepuff{ "+super.toString() + "hardworking=" + hardworking + ", loyal=" + loyal + ", honest=" + honest +

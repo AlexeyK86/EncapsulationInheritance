@@ -13,7 +13,6 @@ public class SlytherinStudent extends HogwartsStudent {
         this.resourcefulness = resourcefulness;
         this.thirstPower = thirstPower;
     }
-
     public int getCunning() {
         return cunning;
     }

@@ -12,6 +12,7 @@ public class RavenclawStudent extends HogwartsStudent {
         this.fullCreativity = fullCreativity;
     }
 
+
     public int getSmart() {
         return smart;
     }

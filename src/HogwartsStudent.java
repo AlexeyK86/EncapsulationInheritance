@@ -9,7 +9,6 @@ public abstract class HogwartsStudent {
         this.magicPower = magicPower;
         this.transgressionDistance = transgressionDistance;
     }
-
     public String getName() {
         return name;
     }

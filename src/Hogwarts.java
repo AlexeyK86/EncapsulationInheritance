@@ -13,7 +13,6 @@ public class Hogwarts {
         }
 
     }
-
     public void compareAnyStudent(HogwartsStudent first, HogwartsStudent second) {
         var firstPoints = first.getMagicPower() + first.getTransgressionDistance();
         var secondPoints = second.getMagicPower() + second.getTransgressionDistance();

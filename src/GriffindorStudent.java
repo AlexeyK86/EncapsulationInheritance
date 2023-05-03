@@ -33,7 +33,6 @@ public class GriffindorStudent extends HogwartsStudent {
     public void setBravery(int bravery) {
         this.bravery = bravery;
     }
-
     @Override
     public String toString() {
         return "Griffindor{"
